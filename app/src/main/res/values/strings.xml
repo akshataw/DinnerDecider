@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DinnerDecider</string>
+    <string name="food_label">Chinese</string>
+</resources>
